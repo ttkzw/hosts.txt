@@ -6,6 +6,10 @@
 <th>File</th>
 </tr>
 <tr>
+<td>1973-12-12</td>
+<td><a href="/rfc/rfc597.txt">rfc597.txt</a></td>
+</tr>
+<tr>
 <td>Jan. 1974</td>
 <td><a href="/pub/hosts/1974/host_names_1974.pdf">host_names_1974.pdf</a></td>
 </tr>
